@@ -12,3 +12,5 @@ import tkinter as tk
 import sys
 
 f = ""
+SERIAL_SPEED = 9600
+COM_PORT = 'COM5'
